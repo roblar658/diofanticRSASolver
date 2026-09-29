@@ -118,7 +118,7 @@ def solve_rsa_steps(p: int, q: int, e: int):
 
 
 # =====================================================================
-# 2. GUI MED ETT FELT PER VARIABEL
+# GUI MED ETT FELT PER VARIABEL
 # =====================================================================
 
 class RSAPencilApp:
